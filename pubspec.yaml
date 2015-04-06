@@ -3,3 +3,5 @@ description: Material Card
 dependencies:
   polymer: ">=0.16.0 <0.17.0"
   custom_element_apigen: ">=0.1.4 <0.2.0"
+  core_elements: any
+  paper_elements: any
