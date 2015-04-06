@@ -1,0 +1,13 @@
+{
+  "name": "material-card-dart",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kaendfinger/material-card",
+  "authors": [
+    "Kenneth Endfinger <kaendfinger@gmail.com>"
+  ],
+  "private": true,
+  "dependencies": {
+    "polymer": "polymer/polymer#0.5.1",
+    "material-card": "lemabu/material-card#master"
+  }
+}
